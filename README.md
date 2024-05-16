@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-[![Thejas775's GitHub | Stats](https://stats.quine.sh/Thejas775/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Thejas775)
+![Thejas775's GitHub | Stats](https://stats.quine.sh/Thejas775/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Thejas775)
 
 <br>
 <br>
