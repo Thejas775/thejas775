@@ -38,8 +38,8 @@
 </div>
 
 <br>
- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thejas775" alt="GitHub Profile Trophy" />
+  <a href="https://github-profile-trophy.vercel.app/?username=Thejas775&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thejas775&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy" />
   </a><br>
 
 <div align="center">
