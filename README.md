@@ -38,6 +38,7 @@
 </div>
 
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thejas775)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 <div align="center">
   <h3>Connect with Me</h3>
