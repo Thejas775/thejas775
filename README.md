@@ -40,7 +40,7 @@
 <br>
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=Thejas775&title=Multilanguage,Repositories,Commits,Followers,Issues,PullRequest,Stars,Experiencetheme=onedark" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thejas775&title=Multilanguage,Repositories,Commits,Followers,Issues,PullRequest,Stars,Experience" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Thejas775&title=Multilanguage,Repositories,Commits,Followers,Issues,PullRequest,Stars,Experiencetheme=onedark" alt="GitHub Profile Trophy" />
   </a></div><br>
 
 <div align="center">
