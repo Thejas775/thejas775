@@ -38,9 +38,10 @@
 </div>
 
 <br>
+<div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=Thejas775&title=Multilanguage,Repositories,Commits,Followers,Issues,PullRequest,Stars,Experience" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Thejas775&title=Multilanguage,Repositories,Commits,Followers,Issues,PullRequest,Stars,Experience" alt="GitHub Profile Trophy" />
-  </a><br>
+  </a></div><br>
 
 <div align="center">
   <h3>Connect with Me</h3>
