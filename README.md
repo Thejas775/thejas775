@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! 👋</h2>
 <h3 align="center">I'm Thejas Elandassery, an Android Developer and ML enthusiast from India.</h3>
-<h3 align="center"> Maintainer at @PSMRI</h3>
+<h3 align="center"> Maintainer at <a href = "https://github.com/PSMRI/">@PSMRI</a></h3>
 
 <br>
 
