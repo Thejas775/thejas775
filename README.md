@@ -1,5 +1,5 @@
 <h2 align="center">Hi there! 👋</h2>
-<h3 align="center">I'm Thejas Elandassery, an Android Developer and ML enthusiast from India.</h3>
+<h3 align="center">I'm Thejas Elandassery, an Android Developer and Backend Engineer from India.</h3>
 
 <br>
 
